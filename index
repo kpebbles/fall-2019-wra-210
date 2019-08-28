@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+
+
+
+<html>
+
+
+
+<head>
+
+
+
+<title>WRA 210 - Introduction to Web Authoring - home</title>
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="http://cdn2.editmysite.com/css/sites.css?buildTime=1234" type="text/css" /><link rel='stylesheet' type='text/css' href='http://cdn1.editmysite.com/editor/libraries/fancybox/fancybox.css?1234' />
+
+
+
+<link rel='stylesheet' type='text/css' href='files/main_style.css?1409014860' title='wsite-theme-css' />
+
+
+
+<link href='http://fonts.googleapis.com/css?family=Glegoo&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+
+
+
+<style type='text/css'>
+
+
+
+.wsite-elements.wsite-not-footer div.paragraph, .wsite-elements.wsite-not-footer p, .wsite-elements.wsite-not-footer .product-block .product-title, .wsite-elements.wsite-not-footer .product-description, .wsite-elements.wsite-not-footer .wsite-form-field label, .wsite-elements.wsite-not-footer .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-family:"Helvetica" !important;font-size:16px !important;}
+
+
+
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {color:#2a2a2a !important;}
+
+
+
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+
+
+
+.wsite-elements.wsite-not-footer h2, .wsite-elements.wsite-not-footer .product-long .product-title, .wsite-elements.wsite-not-footer .product-large .product-title, .wsite-elements.wsite-not-footer .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {font-family:"Helvetica" !important;}
+
+
+
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {color:#2a2a2a !important;}
+
+
+
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+
+
+
+#wsite-title {font-family:"Helvetica" !important;}
+
+
+
+.wsite-not-footer h2.wsite-content-title a, .wsite-not-footer .paragraph a, .wsite-not-footer blockquote a, #blogTable .blog-sidebar a, #blogTable .blog-comments a, #blogTable .blog-comments-bottom a, #wsite-com-store a, #wsite-com-product-gen a, #wsite-com-product-tab a {color:#24678d !important;}
+
+
+
+.wsite-menu-default a {font-family:"Helvetica" !important;font-size:17px !important;}
+
+
+
+.wsite-menu a {font-family:"Helvetica" !important;}
+
+
+
+.wsite-image div, .wsite-caption {}
+
+
+
+.galleryCaptionInnerText {}
+
+
+
+.fancybox-title {}
+
+
+
+.wslide-caption-text {}
+
+
+
+.wsite-phone {}
+
+
+
+.wsite-headline {}
+
+
+
+.wsite-headline-paragraph {}
+
+
+
+.wsite-button-inner {font-family:"Helvetica" !important;}
+
+
+
+.wsite-not-footer blockquote, #wsite-com-product-tab blockquote {font-family:"Helvetica" !important;color:#2a2a2a !important;}
+
+
+
+.wsite-footer blockquote {}
+
+
+
+.blog-header h2 a {}
+
+
+
+#wsite-content h2.wsite-product-title {}
+
+
+
+.wsite-product .wsite-product-price a {}
+
+
+
+.wsite-not-footer h2.wsite-content-title a:hover, .wsite-not-footer .paragraph a:hover, .wsite-not-footer blockquote a:hover, #blogTable .blog-sidebar a:hover, #blogTable .blog-comments a:hover, #blogTable .blog-comments-bottom a:hover, #wsite-com-store a:hover, #wsite-com-product-gen a:hover, #wsite-com-product-tab a:hover {color:#24678d !important;}
+
+
+
+</style>
+
+
+
+
+
+
+
+<script><!--
+
+
+
+var STATIC_BASE = '//cdn1.editmysite.com/';
+
+
+
+var STYLE_PREFIX = 'wsite';
+
+
+
+//-->
+
+
+
+</script>
+
+
+
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+
+
+
+<script src='http://cdn2.editmysite.com/js/site/main.js?buildTime=1234'></script>
+
+
+
+<script>_W.relinquish && _W.relinquish()</script>
+
+
+
+<script type='text/javascript'><!--
+
+
+
+var IS_ARCHIVE=1;
+
+
+
+(function(jQuery){
+
+
+
+function initFlyouts(){initPublishedFlyoutMenus([{"id":"740931074542784323","title":"home","url":"index.html","target":""},{"id":"368199637567877395","title":"schedule","url":"schedule.html","target":""},{"id":"741445566444169417","title":"syllabus","url":"syllabus.html","target":""},{"id":"239662068193163076","title":"resources","url":"resources.html","target":""}],"740931074542784323","<li><a href='#'>{{title}}<\/a><\/li>",'active',false)}
+
+
+
+if (jQuery) {
+
+
+
+if (jQuery.browser.msie && !window.flyoutMenusRefreshable) window.onload = initFlyouts;
+
+
+
+else jQuery(initFlyouts);
+
+
+
+}else{
+
+
+
+if (Prototype.Browser.IE) window.onload = initFlyouts;
+
+
+
+else document.observe('dom:loaded', initFlyouts);
+
+
+
+}
+
+
+
+})(window._W && _W.jQuery)
+
+
+
+//-->
+
+
+
+</script>
+
+
+
+</head>
+
+
+
+<body class='wsite-theme-light no-header-page wsite-page-index'>
+
+
+
+<div id="container">
+
+
+
+	<table id="header">
+
+
+
+		<tr>
+
+
+
+			<td id="logo"><span class='wsite-logo'><a href=''><span id="wsite-title">wra 210 - introduction to web authoring</span></a></span></td>
+
+
+
+			<td id="header-right">
+
+
+
+				<table>
+
+
+
+					<tr>
+
+
+
+						<td class="phone-number"></td>
+
+
+
+						<td class="social"></td>
+
+
+
+					</tr>
+
+
+
+				</table>
+
+
+
+				<div class="search"></div>
+
+
+
+			</td>
+
+
+
+		</tr>
+
+
+
+	</table>
+
+
+
+	<div id="main-wrap">
+
+
+
+		<div id="avmenu"><ul class='wsite-menu-default'><li id='active'><a href='index.html'>home</a></li><li id='pg368199637567877395'><a href='schedule.html'>schedule</a></li><li id='pg741445566444169417'><a href='syllabus.html'>syllabus</a></li><li id='pg239662068193163076'><a href='resources.html'>resources</a></li></ul></div>
+
+
+
+		<div id="main">
+
+
+
+			<div id="banner">
+
+
+
+				<div class="wsite-header"></div>
+
+
+
+				<em id="tl"></em>
+
+
+
+				<em id="tr"></em>
+
+
+
+				<em id="bl"></em>
+
+
+
+				<em id="br"></em>
+
+
+
+			</div>
+
+
+
+			<div id="content"><div id='wsite-content' class='wsite-elements wsite-not-footer'>
+
+
+
+<h2 class="wsite-content-title" style="text-align:center;"><a href="https://docs.google.com/document/d/1iRPdQWx8I7_r9TFhlkxgKURXDGa9d3gx0vanP8nBrOA/edit?usp=sharing">WRA 210 Google Document of Awesome Readings</a></h2>
+
+
+
+
+
+
+
+<div><div class="wsite-multicol"><div class='wsite-multicol-table-wrap' style='margin:0 -15px'>
+
+
+
+<table class='wsite-multicol-table'>
+
+
+
+<tbody class='wsite-multicol-tbody'>
+
+
+
+<tr class='wsite-multicol-tr'>
+
+
+
+<td class='wsite-multicol-col ' style='width:57.845744680851%;padding:0 15px'>
+
+
+
+
+
+
+
+<div class="paragraph" style="text-align:left;"><strong>Modules</strong><br /><ul><li><font size="3"><a href="module-1.html" title="">Module 1: Understanding Servers</a></font></li><li><font size="3"><a href="module-2.html" title="">Module 2: CRAP Exercise</a></font></li><li><font size="3"><a href="module-3.html" title="">Module 3: Alum Interview Report</a></font></li><li><font size="3"><a href="module-4.html" title="">Module 4: Information Architecture</a></font></li><li><font size="3"><a href="module-5.html" title="">Module 5: Wireframes</a></font></li><li><font size="3"><a href="module-6.html" title="">Module 6: Design Comps</a></font></li><li><font size="3"><a href="module-7.html" title="">Module 7: Design Doc Reflection</a></font></li><li><font size="3"><a href="module-8.html" title="">Module 8: Server File Organization</a></font></li><li><font size="3"><a href="module-9.html" title="">Module 9: WayBackMachine Redesign</a></font></li><li><font size="3"><a href="module-10.html" title="">Module 10: Separation of Content from Design</a></font></li><li><font size="3"><a href="module-11.html" title="">Module 11: Scrum / Workshop Report</a></font></li><li><font size="3"><a href="module-12.html" title="">Module 12: Database / CMS&nbsp;Exercise</a></font></li><li><font size="3"><a href="module-13.html" title="">Module 13: Codeacademy Activities</a></font></li><li><font size="3"><a href="portfoliopresentation.html" title="">Portfolio Presentation</a></font></li></ul></div>
+
+
+
+
+
+
+
+<div class="paragraph" style="text-align:left;"><strong>Rubrics</strong><br /><ul><li><a href="https://docs.google.com/a/msu.edu/spreadsheets/d/166b_o_ghH7pIbuRXA-h-pZ93m94Eq4kGLPIAsVUf3fY/edit?usp=sharing" target="_blank">All Rubrics</a></li></ul></div>
+
+
+
+
+
+
+
+<div class="paragraph" style="text-align:left;"><strong>Course Files</strong><br /><ul><li><a href="uploads/1/7/7/0/1770035/template.html">Personal Course Site Template</a></li><li><a href="https://msu.edu/~cmcardle/colorpalette_example.jpg" target="_blank">Color Palette&nbsp;</a></li><li><a href="https://msu.edu/~cmcardle/typeface_example.png">Typecard</a></li><li><a href="https://msu.edu/~cmcardle/pcsexamples.pdf">Personal Course Site Samples</a></li><br/></ul></div>
+
+
+
+
+
+
+
+</td>
+
+
+
+<td class='wsite-multicol-col ' style='width:42.154255319149%;padding:0 15px'>
+
+
+
+
+
+
+
+<div class="paragraph" style="text-align:left;">
+
+
+
+<strong>Student Course Sites</strong><br/>
+
+
+
+<Note:add the student names and student MSU web links below>
+
+
+
+<ul>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+<li><a href="" target="_blank" title="">NAME</a></li>
+
+
+
+</ul>
+
+
+
+</div>
+
+
+
+
+
+
+
+</td>
+
+
+
+</tr>
+
+
+
+</tbody>
+
+
+
+</table>
+
+
+
+</div></div></div></div>
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
